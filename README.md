@@ -21,7 +21,7 @@
   - Orders
   - Allow or Ban Products
  
- - User (Customer)
+- User (Customer)
   - Wishlist
   - Cart
   - Checkout
